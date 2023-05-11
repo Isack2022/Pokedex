@@ -5,5 +5,5 @@ Um projeto básico onde foi criando uma pokendex com a api de pokemon chamando[P
 # Interface
 
 <div align=center>
-    <img src="image/interface.png" alt="Tela da pokedex" height="500">
+    <img src="image/Interface.png" alt="Tela da pokedex" height="500">
 </div>
